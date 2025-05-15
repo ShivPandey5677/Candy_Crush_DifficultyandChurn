@@ -47,7 +47,7 @@ success_rate = total_successes / total_attempts
 ### 2. Churn
 
 ```python
-churned = last_activity_time < (global_latest_time - 7 days)
+churned = last_activity_time < (global_latest_time - 3 days)
 
 ```
 
