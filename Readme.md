@@ -52,3 +52,7 @@ churned = last_activity_time < (global_latest_time - 7 days)
 ```
 
 ![Churn Difficulty Curve](difficulty_churn_curve.png)
+
+
+### More Insights in code only two graphs are added in this readme
+
